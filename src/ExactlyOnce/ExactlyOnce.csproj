@@ -9,7 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Confluent.Kafka" Version="1.6.3" />
-    <PackageReference Include="Microsoft.FASTER.Core" Version="1.8.0" />
+    <PackageReference Include="Microsoft.FASTER.Core" Version="1.9.16" />
   </ItemGroup>
   
 </Project>
